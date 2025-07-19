@@ -1,5 +1,5 @@
 ---
-layout: home        | [About](./about.html)          | [Contact](./contact.html) |
+layout: default        | [About](./about.html)          | [Contact](./contact.html) |
 ---
 
 ## OUR HISTORY
