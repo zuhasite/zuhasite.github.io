@@ -1,6 +1,5 @@
 ---
 layout: home
-![Home](/assets/img/home.png)
 [Home](./)
 ---
 
