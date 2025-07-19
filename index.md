@@ -1,6 +1,6 @@
 ---
 layout: home
-[Home](./)
+![Home](/assets/img/home.png)
 ---
 
 ## OUR HISTORY
