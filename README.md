@@ -1,8 +1,7 @@
 # zuhasite.github.io
-This website is made by github page.
 ![ZuhaSite Logo](/assets/img/zuhasite-logo.png)
 
-# ZwSite Org Bangladesh
+This website is made by github page.
 
 ## Table of Contents
 - [Introduction](#introduction)
