@@ -3,6 +3,7 @@ layout: home
 title: Home
 permalink: ./
 ---
+![Favicon](assets/img/favicon.ico)
 
 [Home](./) | [About](./about.html) | [Contact](./contact)
 
