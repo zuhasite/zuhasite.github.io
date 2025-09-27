@@ -1,10 +1,6 @@
 ---
-layout: home
-title: Home
-permalink: ./
+layout: default
 ---
-![Favicon](assets/img/favicon.ico)
-
 [Home](./) | [About](./about.html) | [Contact](./contact)
 
 ![Home](/assets/img/home.png)
